@@ -1,0 +1,11 @@
+# Ignore vscode settings
+.vscode/
+
+# Ignore environment variables file
+.env
+
+# Ignore shell scripts
+*.sh
+
+# Ignore python scripts
+*.py
