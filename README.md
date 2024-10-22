@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Total problems solved: 115
+## Total problems solved: 117
 
 ## Repartition chart
 ![Repartition chart](images/problem_difficulty_distribution.png)
@@ -42,6 +42,7 @@ Note that the tables below are auto-generated using a script.
 |[MeTube](https://open.kattis.com/problems/dutub)|[![cpp](images/cpp.png)](src/dutub.cpp)|3.7|Medium|[Problem](https://open.kattis.com/problems/dutub)|
 |[Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)|[![cpp](images/cpp.png)](src/echoechoecho.cpp)|1.2|Easy|[Problem](https://open.kattis.com/problems/echoechoecho)|
 |[Eksplozija](https://open.kattis.com/problems/eksplozija)|[![cpp](images/cpp.png)](src/eksplozija.cpp)|7.3|Hard|[Problem](https://open.kattis.com/problems/eksplozija)|
+|[Factstone Benchmark](https://open.kattis.com/problems/factstone)|[![cpp](images/cpp.png)](src/factstone.cpp)|4.0|Medium|[Problem](https://open.kattis.com/problems/factstone)|
 |[Färgrobot](https://open.kattis.com/problems/fargrobot)|[![cpp](images/cpp.png)](src/fargrobot.cpp)|1.7|Easy|[Problem](https://open.kattis.com/problems/fargrobot)|
 |[Framtíðar FIFA](https://open.kattis.com/problems/fifa)|[![cpp](images/cpp.png)](src/fifa.cpp)|1.1|Easy|[Problem](https://open.kattis.com/problems/fifa)|
 |[Finding An A](https://open.kattis.com/problems/findingana)|[![cpp](images/cpp.png)](src/findingana.cpp)|1.2|Easy|[Problem](https://open.kattis.com/problems/findingana)|
@@ -64,6 +65,7 @@ Note that the tables below are auto-generated using a script.
 |[Jabuke](https://open.kattis.com/problems/jabuke)|[![cpp](images/cpp.png)](src/jabuke.cpp)|1.7|Easy|[Problem](https://open.kattis.com/problems/jabuke)|
 |[Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition)|[![cpp](images/cpp.png)](src/jackolanternjuxtaposition.cpp)|1.2|Easy|[Problem](https://open.kattis.com/problems/jackolanternjuxtaposition)|
 |[Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin)|[![cpp](images/cpp.png)](src/jumbojavelin.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/jumbojavelin)|
+|[Kemija](https://open.kattis.com/problems/kemija)|[![cpp](images/cpp.png)](src/kemija.cpp)|8.6|Hard|[Problem](https://open.kattis.com/problems/kemija)|
 |[Keys, Phone, Wallet](https://open.kattis.com/problems/keysphonewallet)|[![cpp](images/cpp.png)](src/keysphonewallet.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/keysphonewallet)|
 |[Kiki Boba](https://open.kattis.com/problems/kikiboba)|[![cpp](images/cpp.png)](src/kikiboba.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/kikiboba)|
 |[Cutting Proteins](https://open.kattis.com/problems/klippaprotein)|[![cpp](images/cpp.png)](src/klippaprotein.cpp)|5.3|Medium|[Problem](https://open.kattis.com/problems/klippaprotein)|
