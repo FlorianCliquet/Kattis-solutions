@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Total problems solved: 117
+## Total problems solved: 118
 
 ## Repartition chart
 ![Repartition chart](images/problem_difficulty_distribution.png)
@@ -113,6 +113,7 @@ Note that the tables below are auto-generated using a script.
 |[Takk fyrir mig](https://open.kattis.com/problems/takkfyrirmig)|[![cpp](images/cpp.png)](src/takkfyrirmig.cpp)|1.2|Easy|[Problem](https://open.kattis.com/problems/takkfyrirmig)|
 |[Talnalás](https://open.kattis.com/problems/talnalas)|[![cpp](images/cpp.png)](src/talnalas.cpp)|3.8|Medium|[Problem](https://open.kattis.com/problems/talnalas)|
 |[Tarifa](https://open.kattis.com/problems/tarifa)|[![cpp](images/cpp.png)](src/tarifa.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/tarifa)|
+|[Teningasafn](https://open.kattis.com/problems/teningasafn)|[![cpp](images/cpp.png)](src/teningasafn.cpp)|6.8|Hard|[Problem](https://open.kattis.com/problems/teningasafn)|
 |[Three Digits](https://open.kattis.com/problems/threedigits)|[![cpp](images/cpp.png)](src/threedigits.cpp)|6.1|Hard|[Problem](https://open.kattis.com/problems/threedigits)|
 |[Til hamingju](https://open.kattis.com/problems/tilhamingju)|[![cpp](images/cpp.png)](src/tilhamingju.cpp)|1.0|Easy|[Problem](https://open.kattis.com/problems/tilhamingju)|
 |[Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)|[![cpp](images/cpp.png)](src/timeloop.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/timeloop)|
