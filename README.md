@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Total problems solved: 114
+## Total problems solved: 115
 
 ## Repartition chart
 ![Repartition chart](images/problem_difficulty_distribution.png)
@@ -66,6 +66,7 @@ Note that the tables below are auto-generated using a script.
 |[Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin)|[![cpp](images/cpp.png)](src/jumbojavelin.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/jumbojavelin)|
 |[Keys, Phone, Wallet](https://open.kattis.com/problems/keysphonewallet)|[![cpp](images/cpp.png)](src/keysphonewallet.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/keysphonewallet)|
 |[Kiki Boba](https://open.kattis.com/problems/kikiboba)|[![cpp](images/cpp.png)](src/kikiboba.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/kikiboba)|
+|[Cutting Proteins](https://open.kattis.com/problems/klippaprotein)|[![cpp](images/cpp.png)](src/klippaprotein.cpp)|5.3|Medium|[Problem](https://open.kattis.com/problems/klippaprotein)|
 |[Knight Packing](https://open.kattis.com/problems/knightpacking)|[![cpp](images/cpp.png)](src/knightpacking.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/knightpacking)|
 |[Codforces](https://open.kattis.com/problems/kodkraft)|[![cpp](images/cpp.png)](src/kodkraft.cpp)|5.4|Medium|[Problem](https://open.kattis.com/problems/kodkraft)|
 |[Kveðja](https://open.kattis.com/problems/kvedja)|[![cpp](images/cpp.png)](src/kvedja.cpp)|1.1|Easy|[Problem](https://open.kattis.com/problems/kvedja)|
