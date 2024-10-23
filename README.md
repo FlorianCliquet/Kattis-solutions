@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Total problems solved: 120
+## Total problems solved: 122
 
 ## Repartition chart
 ![Repartition chart](images/problem_difficulty_distribution.png)
@@ -50,6 +50,7 @@ Note that the tables below are auto-generated using a script.
 |[Flatbökuveisla](https://open.kattis.com/problems/flatbokuveisla)|[![cpp](images/cpp.png)](src/flatbokuveisla.cpp)|1.1|Easy|[Problem](https://open.kattis.com/problems/flatbokuveisla)|
 |[Framvindustika](https://open.kattis.com/problems/framvindustika)|[![cpp](images/cpp.png)](src/framvindustika.cpp)|3.4|Medium|[Problem](https://open.kattis.com/problems/framvindustika)|
 |[Frogger](https://open.kattis.com/problems/frogger)|[![cpp](images/cpp.png)](src/frogger.cpp)|5.5|Medium|[Problem](https://open.kattis.com/problems/frogger)|
+|[Frumtölutalning](https://open.kattis.com/problems/frumtolutalning)|[![cpp](images/cpp.png)](src/frumtolutalning.cpp)|8.5|Hard|[Problem](https://open.kattis.com/problems/frumtolutalning)|
 |[FYI](https://open.kattis.com/problems/fyi)|[![cpp](images/cpp.png)](src/fyi.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/fyi)|
 |[Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing)|[![cpp](images/cpp.png)](src/greedilyincreasing.cpp)|1.9|Easy|[Problem](https://open.kattis.com/problems/greedilyincreasing)|
 |[Greetings!](https://open.kattis.com/problems/greetings2)|[![cpp](images/cpp.png)](src/greetings2.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/greetings2)|
@@ -99,6 +100,7 @@ Note that the tables below are auto-generated using a script.
 |[R2](https://open.kattis.com/problems/r2)|[![cpp](images/cpp.png)](src/r2.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/r2)|
 |[Rating Problems](https://open.kattis.com/problems/ratingproblems)|[![cpp](images/cpp.png)](src/ratingproblems.cpp)|1.4|Easy|[Problem](https://open.kattis.com/problems/ratingproblems)|
 |[Reduplication](https://open.kattis.com/problems/reduplikation)|[![cpp](images/cpp.png)](src/reduplikation.cpp)|1.1|Easy|[Problem](https://open.kattis.com/problems/reduplikation)|
+|[Rúnnfræði](https://open.kattis.com/problems/runnfraedi)|[![cpp](images/cpp.png)](src/runnfraedi.cpp)|8.6|Hard|[Problem](https://open.kattis.com/problems/runnfraedi)|
 |[Sammaeining](https://open.kattis.com/problems/sammaeining)|[![cpp](images/cpp.png)](src/sammaeining.cpp)|6.0|Hard|[Problem](https://open.kattis.com/problems/sammaeining)|
 |[Shandy](https://open.kattis.com/problems/shandy)|[![cpp](images/cpp.png)](src/shandy.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/shandy)|
 |[A Shortcut to What?](https://open.kattis.com/problems/shortcuttowhat)|[![cpp](images/cpp.png)](src/shortcuttowhat.cpp)|1.2|Easy|[Problem](https://open.kattis.com/problems/shortcuttowhat)|
