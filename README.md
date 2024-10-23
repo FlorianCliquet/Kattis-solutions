@@ -122,7 +122,7 @@ Note that the tables below are auto-generated using a script.
 |[Talnalás](https://open.kattis.com/problems/talnalas)|[![cpp](images/cpp.png)](src/talnalas.cpp)|3.8|Medium|[Problem](https://open.kattis.com/problems/talnalas)|
 |[Tarifa](https://open.kattis.com/problems/tarifa)|[![cpp](images/cpp.png)](src/tarifa.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/tarifa)|
 |[Teningasafn](https://open.kattis.com/problems/teningasafn)|[![cpp](images/cpp.png)](src/teningasafn.cpp)|6.6|Hard|[Problem](https://open.kattis.com/problems/teningasafn)|
-|[Tetration](https://open.kattis.com/problems/tetration)|Not posted yet|1.6|Easy|[Problem](https://open.kattis.com/problems/tetration)|
+|[Tetration](https://open.kattis.com/problems/tetration)|[![cpp](images/cpp.png)](src/tetration.cpp)|1.6|Easy|[Problem](https://open.kattis.com/problems/tetration)|
 |[Three Digits](https://open.kattis.com/problems/threedigits)|[![cpp](images/cpp.png)](src/threedigits.cpp)|6.1|Hard|[Problem](https://open.kattis.com/problems/threedigits)|
 |[Til hamingju](https://open.kattis.com/problems/tilhamingju)|[![cpp](images/cpp.png)](src/tilhamingju.cpp)|1.0|Easy|[Problem](https://open.kattis.com/problems/tilhamingju)|
 |[Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)|[![cpp](images/cpp.png)](src/timeloop.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/timeloop)|
