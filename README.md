@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Total problems solved: 154
+## Total problems solved: 156
 
 ## Repartition chart
 ![Repartition chart](images/problem_difficulty_distribution.png)
@@ -64,6 +64,7 @@ Note that the tables below are auto-generated using a script.
 |[Frogger](https://open.kattis.com/problems/frogger)|[![cpp](images/cpp.png)](src/frogger.cpp)|5.5|Medium|[Problem](https://open.kattis.com/problems/frogger)|
 |[Frumtölutalning](https://open.kattis.com/problems/frumtolutalning)|[![cpp](images/cpp.png)](src/frumtolutalning.cpp)|8.6|Hard|[Problem](https://open.kattis.com/problems/frumtolutalning)|
 |[FYI](https://open.kattis.com/problems/fyi)|[![cpp](images/cpp.png)](src/fyi.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/fyi)|
+|[Game of Cards](https://open.kattis.com/problems/gameofcards)|[![cpp](images/cpp.png)](src/gameofcards.cpp)|5.8|Medium|[Problem](https://open.kattis.com/problems/gameofcards)|
 |[Goldbach's Conjecture](https://open.kattis.com/problems/goldbach2)|[![cpp](images/cpp.png)](src/goldbach2.cpp)|2.1|Easy|[Problem](https://open.kattis.com/problems/goldbach2)|
 |[Golf](https://open.kattis.com/problems/golf)|[![cpp](images/cpp.png)](src/golf.cpp)|9.0|Hard|[Problem](https://open.kattis.com/problems/golf)|
 |[Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasing)|[![cpp](images/cpp.png)](src/greedilyincreasing.cpp)|1.9|Easy|[Problem](https://open.kattis.com/problems/greedilyincreasing)|
@@ -140,6 +141,7 @@ Note that the tables below are auto-generated using a script.
 |[Stórafmæli](https://open.kattis.com/problems/storafmaeli)|[![cpp](images/cpp.png)](src/storafmaeli.cpp)|1.1|Easy|[Problem](https://open.kattis.com/problems/storafmaeli)|
 |[Studentsko](https://open.kattis.com/problems/studentsko)|[![cpp](images/cpp.png)](src/studentsko.cpp)|3.8|Medium|[Problem](https://open.kattis.com/problems/studentsko)|
 |[Sunshine](https://open.kattis.com/problems/sunshine)|[![c](images/c.png)](src/sunshine.c) [![cpp](images/cpp.png)](src/sunshine.cpp)|5.4|Medium|[Problem](https://open.kattis.com/problems/sunshine)|
+|[Supercomputer](https://open.kattis.com/problems/supercomputer)|[![cpp](images/cpp.png)](src/supercomputer.cpp)|2.7|Easy|[Problem](https://open.kattis.com/problems/supercomputer)|
 |[Symmetric Order](https://open.kattis.com/problems/symmetricorder)|[![cpp](images/cpp.png)](src/symmetricorder.cpp)|1.7|Easy|[Problem](https://open.kattis.com/problems/symmetricorder)|
 |[Takkar](https://open.kattis.com/problems/takkar)|[![cpp](images/cpp.png)](src/takkar.cpp)|1.2|Easy|[Problem](https://open.kattis.com/problems/takkar)|
 |[Takk fyrir mig](https://open.kattis.com/problems/takkfyrirmig)|[![cpp](images/cpp.png)](src/takkfyrirmig.cpp)|1.2|Easy|[Problem](https://open.kattis.com/problems/takkfyrirmig)|
