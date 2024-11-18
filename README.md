@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Total problems solved: 157
+## Total problems solved: 161
 
 ## Repartition chart
 ![Repartition chart](images/problem_difficulty_distribution.png)
@@ -44,6 +44,7 @@ Note that the tables below are auto-generated using a script.
 |[Cosmic Path Optimization](https://open.kattis.com/problems/cosmicpathoptimization)|[![cpp](images/cpp.png)](src/cosmicpathoptimization.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/cosmicpathoptimization)|
 |[Costume Contest](https://open.kattis.com/problems/costumecontest)|[![cpp](images/cpp.png)](src/costumecontest.cpp)|2.0|Easy|[Problem](https://open.kattis.com/problems/costumecontest)|
 |[Count the Vowels](https://open.kattis.com/problems/countthevowels)|[![cpp](images/cpp.png)](src/countthevowels.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/countthevowels)|
+|[Curve Speed](https://open.kattis.com/problems/curvespeed)|[![cpp](images/cpp.png)](src/curvespeed.cpp)|2.3|Easy|[Problem](https://open.kattis.com/problems/curvespeed)|
 |[Dagatal](https://open.kattis.com/problems/dagatal)|[![cpp](images/cpp.png)](src/dagatal.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/dagatal)|
 |[Decimal deletion](https://open.kattis.com/problems/decimaldeletion)|[![cpp](images/cpp.png)](src/decimaldeletion.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/decimaldeletion)|
 |[Dice Betting](https://open.kattis.com/problems/dicebetting)|[![cpp](images/cpp.png)](src/dicebetting.cpp)|4.1|Medium|[Problem](https://open.kattis.com/problems/dicebetting)|
@@ -135,6 +136,8 @@ Note that the tables below are auto-generated using a script.
 |[A Shortcut to What?](https://open.kattis.com/problems/shortcuttowhat)|[![cpp](images/cpp.png)](src/shortcuttowhat.cpp)|1.2|Easy|[Problem](https://open.kattis.com/problems/shortcuttowhat)|
 |[Silueta](https://open.kattis.com/problems/silueta)|[![cpp](images/cpp.png)](src/silueta.cpp)|5.0|Medium|[Problem](https://open.kattis.com/problems/silueta)|
 |[Skák](https://open.kattis.com/problems/skak)|[![cpp](images/cpp.png)](src/skak.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/skak)|
+|[S-Nim](https://open.kattis.com/problems/snim)|Not posted yet|2.3|Easy|[Problem](https://open.kattis.com/problems/snim)|
+|[Some Sum](https://open.kattis.com/problems/somesum)|[![cpp](images/cpp.png)](src/somesum.cpp)|2.1|Easy|[Problem](https://open.kattis.com/problems/somesum)|
 |[Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers)|[![cpp](images/cpp.png)](src/sorttwonumbers.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/sorttwonumbers)|
 |[Spritt](https://open.kattis.com/problems/spritt)|[![cpp](images/cpp.png)](src/spritt.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/spritt)|
 |[Stamp Combinations](https://open.kattis.com/problems/stampcombinations)|[![cpp](images/cpp.png)](src/stampcombinations.cpp)|5.6|Medium|[Problem](https://open.kattis.com/problems/stampcombinations)|
@@ -152,6 +155,7 @@ Note that the tables below are auto-generated using a script.
 |[Teningasafn](https://open.kattis.com/problems/teningasafn)|[![cpp](images/cpp.png)](src/teningasafn.cpp)|6.9|Hard|[Problem](https://open.kattis.com/problems/teningasafn)|
 |[Tetration](https://open.kattis.com/problems/tetration)|[![cpp](images/cpp.png)](src/tetration.cpp)|1.7|Easy|[Problem](https://open.kattis.com/problems/tetration)|
 |[Texas Summers](https://open.kattis.com/problems/texassummers)|[![cpp](images/cpp.png)](src/texassummers.cpp)|4.1|Medium|[Problem](https://open.kattis.com/problems/texassummers)|
+|[Texture Analysis](https://open.kattis.com/problems/textureanalysis)|[![cpp](images/cpp.png)](src/textureanalysis.cpp)|3.0|Medium|[Problem](https://open.kattis.com/problems/textureanalysis)|
 |[Three Digits](https://open.kattis.com/problems/threedigits)|[![cpp](images/cpp.png)](src/threedigits.cpp)|6.2|Hard|[Problem](https://open.kattis.com/problems/threedigits)|
 |[Til hamingju](https://open.kattis.com/problems/tilhamingju)|[![cpp](images/cpp.png)](src/tilhamingju.cpp)|1.1|Easy|[Problem](https://open.kattis.com/problems/tilhamingju)|
 |[Stuck In A Time Loop](https://open.kattis.com/problems/timeloop)|[![cpp](images/cpp.png)](src/timeloop.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/timeloop)|
