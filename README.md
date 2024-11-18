@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-## Total problems solved: 156
+## Total problems solved: 157
 
 ## Repartition chart
 ![Repartition chart](images/problem_difficulty_distribution.png)
@@ -57,7 +57,7 @@ Note that the tables below are auto-generated using a script.
 |[Factstone Benchmark](https://open.kattis.com/problems/factstone)|[![cpp](images/cpp.png)](src/factstone.cpp)|4.0|Medium|[Problem](https://open.kattis.com/problems/factstone)|
 |[Färgrobot](https://open.kattis.com/problems/fargrobot)|[![cpp](images/cpp.png)](src/fargrobot.cpp)|1.7|Easy|[Problem](https://open.kattis.com/problems/fargrobot)|
 |[Fibs og Dibs](https://open.kattis.com/problems/fibsogdibs)|[![cpp](images/cpp.png)](src/fibsogdibs.cpp)|6.4|Hard|[Problem](https://open.kattis.com/problems/fibsogdibs)|
-|[Framtíðar FIFA](https://open.kattis.com/problems/fifa)|[![cpp](images/cpp.png)](src/fifa.cpp)|1.2|Easy|[Problem](https://open.kattis.com/problems/fifa)|
+|[Framtíðar FIFA](https://open.kattis.com/problems/fifa)|[![cpp](images/cpp.png)](src/fifa.cpp)|1.1|Easy|[Problem](https://open.kattis.com/problems/fifa)|
 |[Finding An A](https://open.kattis.com/problems/findingana)|[![cpp](images/cpp.png)](src/findingana.cpp)|1.2|Easy|[Problem](https://open.kattis.com/problems/findingana)|
 |[Flatbökuveisla](https://open.kattis.com/problems/flatbokuveisla)|[![cpp](images/cpp.png)](src/flatbokuveisla.cpp)|1.1|Easy|[Problem](https://open.kattis.com/problems/flatbokuveisla)|
 |[Framvindustika](https://open.kattis.com/problems/framvindustika)|[![cpp](images/cpp.png)](src/framvindustika.cpp)|3.4|Medium|[Problem](https://open.kattis.com/problems/framvindustika)|
@@ -100,6 +100,7 @@ Note that the tables below are auto-generated using a script.
 |[Metronome](https://open.kattis.com/problems/metronome)|[![cpp](images/cpp.png)](src/metronome.cpp)|1.1|Easy|[Problem](https://open.kattis.com/problems/metronome)|
 |[Millifærsla](https://open.kattis.com/problems/millifaersla)|[![cpp](images/cpp.png)](src/millifaersla.cpp)|1.2|Easy|[Problem](https://open.kattis.com/problems/millifaersla)|
 |[Missing Gnomes](https://open.kattis.com/problems/missinggnomes)|[![cpp](images/cpp.png)](src/missinggnomes.cpp)|3.6|Medium|[Problem](https://open.kattis.com/problems/missinggnomes)|
+|[Movie Collection](https://open.kattis.com/problems/moviecollection)|[![cpp](images/cpp.png)](src/moviecollection.cpp)|4.4|Medium|[Problem](https://open.kattis.com/problems/moviecollection)|
 |[Mravojed](https://open.kattis.com/problems/mravojed)|[![cpp](images/cpp.png)](src/mravojed.cpp)|6.6|Hard|[Problem](https://open.kattis.com/problems/mravojed)|
 |[Multiplication Table](https://open.kattis.com/problems/multtable)|[![cpp](images/cpp.png)](src/multtable.cpp)|3.6|Medium|[Problem](https://open.kattis.com/problems/multtable)|
 |[Nasty Hacks](https://open.kattis.com/problems/nastyhacks)|[![cpp](images/cpp.png)](src/nastyhacks.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/nastyhacks)|
@@ -113,10 +114,10 @@ Note that the tables below are auto-generated using a script.
 |[Óvissa](https://open.kattis.com/problems/ovissa)|[![cpp](images/cpp.png)](src/ovissa.cpp)|1.2|Easy|[Problem](https://open.kattis.com/problems/ovissa)|
 |[Patuljci](https://open.kattis.com/problems/patuljci)|[![cpp](images/cpp.png)](src/patuljci.cpp)|1.7|Easy|[Problem](https://open.kattis.com/problems/patuljci)|
 |[Periodic Strings](https://open.kattis.com/problems/periodicstrings)|[![cpp](images/cpp.png)](src/periodicstrings.cpp)|2.3|Easy|[Problem](https://open.kattis.com/problems/periodicstrings)|
-|[Piano Lessons](https://open.kattis.com/problems/pianolessons)|[![cpp](images/cpp.png)](src/pianolessons.cpp)|3.5|Medium|[Problem](https://open.kattis.com/problems/pianolessons)|
+|[Piano Lessons](https://open.kattis.com/problems/pianolessons)|[![cpp](images/cpp.png)](src/pianolessons.cpp)|3.4|Medium|[Problem](https://open.kattis.com/problems/pianolessons)|
 |[Pizza Crust](https://open.kattis.com/problems/pizza2)|[![cpp](images/cpp.png)](src/pizza2.cpp)|1.7|Easy|[Problem](https://open.kattis.com/problems/pizza2)|
 |[Pizzastrengur](https://open.kattis.com/problems/pizzastrengur)|[![c](images/c.png)](src/pizzastrengur.c) [![cpp](images/cpp.png)](src/pizzastrengur.cpp)|2.9|Easy|[Problem](https://open.kattis.com/problems/pizzastrengur)|
-|[Pot](https://open.kattis.com/problems/pot)|[![cpp](images/cpp.png)](src/pot.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/pot)|
+|[Pot](https://open.kattis.com/problems/pot)|[![cpp](images/cpp.png)](src/pot.cpp)|1.4|Easy|[Problem](https://open.kattis.com/problems/pot)|
 |[Prva](https://open.kattis.com/problems/prva)|[![cpp](images/cpp.png)](src/prva.cpp)|1.7|Easy|[Problem](https://open.kattis.com/problems/prva)|
 |[Púsluspil](https://open.kattis.com/problems/pusluspil)|[![cpp](images/cpp.png)](src/pusluspil.cpp)|2.1|Easy|[Problem](https://open.kattis.com/problems/pusluspil)|
 |[Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)|[![cpp](images/cpp.png)](src/qaly.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/qaly)|
@@ -126,7 +127,7 @@ Note that the tables below are auto-generated using a script.
 |[The Rectangles Are Surrounding Us!](https://open.kattis.com/problems/rectanglesurrounding)|[![cpp](images/cpp.png)](src/rectanglesurrounding.cpp)|2.6|Easy|[Problem](https://open.kattis.com/problems/rectanglesurrounding)|
 |[Reduplication](https://open.kattis.com/problems/reduplikation)|[![cpp](images/cpp.png)](src/reduplikation.cpp)|1.2|Easy|[Problem](https://open.kattis.com/problems/reduplikation)|
 |[Rúnnfræði](https://open.kattis.com/problems/runnfraedi)|[![cpp](images/cpp.png)](src/runnfraedi.cpp)|8.6|Hard|[Problem](https://open.kattis.com/problems/runnfraedi)|
-|[Saint John Festival](https://open.kattis.com/problems/saintjohn)|[![cpp](images/cpp.png)](src/saintjohn.cpp)|4.9|Medium|[Problem](https://open.kattis.com/problems/saintjohn)|
+|[Saint John Festival](https://open.kattis.com/problems/saintjohn)|[![cpp](images/cpp.png)](src/saintjohn.cpp)|4.8|Medium|[Problem](https://open.kattis.com/problems/saintjohn)|
 |[Sammaeining](https://open.kattis.com/problems/sammaeining)|[![cpp](images/cpp.png)](src/sammaeining.cpp)|5.3|Medium|[Problem](https://open.kattis.com/problems/sammaeining)|
 |[Line Segment Distance](https://open.kattis.com/problems/segmentdistance)|[![cpp](images/cpp.png)](src/segmentdistance.cpp)|4.2|Medium|[Problem](https://open.kattis.com/problems/segmentdistance)|
 |[Shandy](https://open.kattis.com/problems/shandy)|[![cpp](images/cpp.png)](src/shandy.cpp)|1.4|Easy|[Problem](https://open.kattis.com/problems/shandy)|
@@ -138,9 +139,9 @@ Note that the tables below are auto-generated using a script.
 |[Spritt](https://open.kattis.com/problems/spritt)|[![cpp](images/cpp.png)](src/spritt.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/spritt)|
 |[Stamp Combinations](https://open.kattis.com/problems/stampcombinations)|[![cpp](images/cpp.png)](src/stampcombinations.cpp)|5.6|Medium|[Problem](https://open.kattis.com/problems/stampcombinations)|
 |[Stikl](https://open.kattis.com/problems/stikl)|[![c](images/c.png)](src/stikl.c)|5.5|Medium|[Problem](https://open.kattis.com/problems/stikl)|
-|[Stórafmæli](https://open.kattis.com/problems/storafmaeli)|[![cpp](images/cpp.png)](src/storafmaeli.cpp)|1.1|Easy|[Problem](https://open.kattis.com/problems/storafmaeli)|
+|[Stórafmæli](https://open.kattis.com/problems/storafmaeli)|[![cpp](images/cpp.png)](src/storafmaeli.cpp)|1.2|Easy|[Problem](https://open.kattis.com/problems/storafmaeli)|
 |[Studentsko](https://open.kattis.com/problems/studentsko)|[![cpp](images/cpp.png)](src/studentsko.cpp)|3.8|Medium|[Problem](https://open.kattis.com/problems/studentsko)|
-|[Sunshine](https://open.kattis.com/problems/sunshine)|[![c](images/c.png)](src/sunshine.c) [![cpp](images/cpp.png)](src/sunshine.cpp)|5.4|Medium|[Problem](https://open.kattis.com/problems/sunshine)|
+|[Sunshine](https://open.kattis.com/problems/sunshine)|[![c](images/c.png)](src/sunshine.c) [![cpp](images/cpp.png)](src/sunshine.cpp)|5.5|Medium|[Problem](https://open.kattis.com/problems/sunshine)|
 |[Supercomputer](https://open.kattis.com/problems/supercomputer)|[![cpp](images/cpp.png)](src/supercomputer.cpp)|2.7|Easy|[Problem](https://open.kattis.com/problems/supercomputer)|
 |[Symmetric Order](https://open.kattis.com/problems/symmetricorder)|[![cpp](images/cpp.png)](src/symmetricorder.cpp)|1.7|Easy|[Problem](https://open.kattis.com/problems/symmetricorder)|
 |[Takkar](https://open.kattis.com/problems/takkar)|[![cpp](images/cpp.png)](src/takkar.cpp)|1.2|Easy|[Problem](https://open.kattis.com/problems/takkar)|
