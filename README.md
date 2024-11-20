@@ -143,7 +143,7 @@ Note that the tables below are auto-generated using a script.
 |[A Shortcut to What?](https://open.kattis.com/problems/shortcuttowhat)|[![cpp](images/cpp.png)](src/shortcuttowhat.cpp)|1.2|Easy|[Problem](https://open.kattis.com/problems/shortcuttowhat)|
 |[Silueta](https://open.kattis.com/problems/silueta)|[![cpp](images/cpp.png)](src/silueta.cpp)|5.0|Medium|[Problem](https://open.kattis.com/problems/silueta)|
 |[Skák](https://open.kattis.com/problems/skak)|[![cpp](images/cpp.png)](src/skak.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/skak)|
-|[S-Nim](https://open.kattis.com/problems/snim)|Not posted yet|2.3|Easy|[Problem](https://open.kattis.com/problems/snim)|
+|[S-Nim](https://open.kattis.com/problems/snim)|[![cpp](images/cpp.png)](src/snim.cpp)|2.3|Easy|[Problem](https://open.kattis.com/problems/snim)|
 |[Some Sum](https://open.kattis.com/problems/somesum)|[![cpp](images/cpp.png)](src/somesum.cpp)|2.1|Easy|[Problem](https://open.kattis.com/problems/somesum)|
 |[Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers)|[![cpp](images/cpp.png)](src/sorttwonumbers.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/sorttwonumbers)|
 |[Spritt](https://open.kattis.com/problems/spritt)|[![cpp](images/cpp.png)](src/spritt.cpp)|1.3|Easy|[Problem](https://open.kattis.com/problems/spritt)|
